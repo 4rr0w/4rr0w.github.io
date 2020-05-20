@@ -97,7 +97,7 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=4;
+Typer.speed=3;
 Typer.file="./../text/himanshu.txt"; 
 Typer.init();
  
