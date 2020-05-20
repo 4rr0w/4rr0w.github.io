@@ -6,7 +6,7 @@ Hey There! I am Himanshu Anuragi a tech enthusiast<!-- laglaglaglaglaglaglaglagl
 currently, I am doing b-tech in Bio-Chemical and Bio-Technology from <a href="http://www.iitd.ac.in"><b>IIT Delhi</b></a>. 
 </p>
 
-<p> I have worked experience of django, bootstrap web framworks and in pragramming languages, I have preety good knowledge of <i> Python, C++, Javascript, Java, PHP.</i> <!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> I have worked experience of django, bootstrap web framworks and in pragramming languages, I have pretty good knowledge of <i> Python, C++, Javascript, Java, PHP.</i> <!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Apart from this I really love Dancing and Reading blogs, articles on Cosmos. <br><br>In sports I like playing Chess, because you know what they say 'Chess keeps isane people sane.'. Here is link to my lichess account :  <a href="https://www.lichess.org/@/HimanshuAnuragi">HimanshuAnuragi</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> Check out the Projects, I have been working on , here: <a href="https://www.github.com/4rr0w">Github</a>. </p>
 
